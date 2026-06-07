@@ -3,15 +3,15 @@
 export const cloudMetricsByYear = [
      {
     year: "2004", 
-    aws_revenue: 0, aws_marketShare: 0, aws_regions: 0, aws_services: 0, aws_customers: 0, aws_aiMl: 0, aws_devTools: 0,
-    azure_revenue: 0, azure_marketShare: 0, azure_regions: 0, azure_services: 0, azure_customers: 0, azure_aiMl: 0, azure_devTools: 0,
-    gcp_revenue: 0, gcp_marketShare: 0, gcp_regions: 0, gcp_services: 0, gcp_customers: 0, gcp_aiMl: 0, gcp_devTools: 0,
+    aws_revenue: 0, aws_marketShare: 0, aws_regions: 0, aws_services: 0, aws_customers: 0, aws_aiMl: 0, aws_devTools: 0,aws_data: 0,
+    azure_revenue: 0, azure_marketShare: 0, azure_regions: 0, azure_services: 0, azure_customers: 0, azure_aiMl: 0, azure_devTools: 0,azure_data: 0,
+    gcp_revenue: 0, gcp_marketShare: 0, gcp_regions: 0, gcp_services: 0, gcp_customers: 0, gcp_aiMl: 0, gcp_devTools: 0,gcp_data: 0,
     },
     {
     year: "2005", 
-    aws_revenue: 0, aws_marketShare: 0, aws_regions: 0, aws_services: 0, aws_customers: 0, aws_aiMl: 0, aws_devTools: 0,
-    azure_revenue: 0, azure_marketShare: 0, azure_regions: 0, azure_services: 0, azure_customers: 0, azure_aiMl: 0, azure_devTools: 0,
-    gcp_revenue: 0, gcp_marketShare: 0, gcp_regions: 0, gcp_services: 0, gcp_customers: 0, gcp_aiMl: 0, gcp_devTools: 0,
+    aws_revenue: 0, aws_marketShare: 0, aws_regions: 0, aws_services: 0, aws_customers: 0, aws_aiMl: 0, aws_devTools: 0, aws_data: 0,
+    azure_revenue: 0, azure_marketShare: 0, azure_regions: 0, azure_services: 0, azure_customers: 0, azure_aiMl: 0, azure_devTools: 0, azure_data: 0,
+    gcp_revenue: 0, gcp_marketShare: 0, gcp_regions: 0, gcp_services: 0, gcp_customers: 0, gcp_aiMl: 0, gcp_devTools: 0, gcp_data: 0,
   },
   {
     year: "2006",

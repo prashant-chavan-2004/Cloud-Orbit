@@ -18,7 +18,8 @@ const METRICS = [
   { key: "services", label: "Services Index" },
   { key: "customers", label: "Customers Index" },
   { key: "aiMl", label: "AI & ML Index" },
-  { key: "devTools", label: "Dev Tools Index" }
+  { key: "devTools", label: "Dev Tools Index" },
+  { key: "data", label: "Data Centers Index" }
 ];
 
 const PROVIDERS = [
@@ -145,7 +146,6 @@ export default function CloudMultiLineChart() {
         <h2 style={{ margin: "0 0 6px 0", color: "#1a1a1a" }}>Cloud Chart  </h2>
       </div>
 
-      {/* UPPER METRIC FILTER BUTTONS */}
       <div style={{ 
         display: "flex", 
         flexWrap: "wrap", 
